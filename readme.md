@@ -22,4 +22,6 @@ Anyway, I can reproduce all this app by using only a **`SQL`** database!
 | FRONTEND CLIENT | [https://github.com/BrightkyEfoo/ecommerce-client](https://github.com/BrightkyEfoo/ecommerce-client) | [view live](http://5.189.158.182/)      |
 | BACKEND API     | [https://github.com/BrightkyEfoo/ecommerce-server](https://github.com/BrightkyEfoo/ecommerce-server) | [view live](http://5.189.158.182:9000/) |
 
+By going to the code of any part of the project either api or client you will see in a readme file how to get started with it!
+
 **`@BrightkyEfoo`**
