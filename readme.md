@@ -14,6 +14,8 @@ but I still have less than 3 years of Experience with the framework
 For database, I choose to use **`MongoDB`**, which is quite a byte easy to use. I think this app is only for test purpose; 
 It doesn't really need any kind of relational logic now I think.
 Anyway, I can reproduce all this app by using only a **`SQL`** database!
+### DEVOPS
+I use docker for containerization, Github Workflows for CI/CD and Vitest for further tests
 
 ## CODE AND LIVE VERSION
 
