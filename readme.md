@@ -6,7 +6,7 @@ HERE WE GOO!
 
 ## STACK
 ### FRONTEND
-In my frontend I use **`ReactJS`**, precisely **`Next.js`** for templating, NextUI for components and some stuff like **`axios`** etc...
+In my frontend I use **`ReactJS`**, precisely **`Next.js`** for templating, **`NextUI`** for components and some stuff like **`axios`** etc...
 ### BACKEND
 In my Backend, I choose to use **`Express.js`**, because I'm very familiar with **`Express.js`**. I could use **`AdonisJS`**, 
 but I still have less than 3 years of Experience with the framework
